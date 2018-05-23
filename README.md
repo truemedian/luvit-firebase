@@ -1,7 +1,7 @@
 # luvit-firebase
 Allows you to make requests to Google's Firebase Database service
 
-Rewrite by @truemedian
+Rewrite by Nameless#1814
 
 # Installation
 ``lit install Tigerism/luvit-firebase``
